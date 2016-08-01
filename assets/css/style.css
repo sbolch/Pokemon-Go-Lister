@@ -1,0 +1,22 @@
+.tac { text-align: center; }
+
+body {
+    background: #ccc;
+    color: #222;
+}
+
+paper-card {
+    margin-bottom: 5px;
+}
+paper-card .title-text {
+    background: rgba(238, 238, 238, 0.33);
+    font-size: 1em !important;
+    height: 1em;
+    line-height: 1em;
+    text-align: center;
+    width: 100%;
+}
+paper-card .size {
+    position: absolute;
+    bottom: 5px; right: 0;
+}

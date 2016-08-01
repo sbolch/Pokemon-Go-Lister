@@ -1,0 +1,308 @@
+[
+  {
+    "type": "beedrill",
+    "cp": 171,
+    "weight": [27.07],
+    "height": [0.88]
+  },
+  {
+    "type": "bulbasaur",
+    "cp": 65,
+    "weight": [7.71],
+    "height": [0.7]
+  },
+  {
+    "type": "caterpie",
+    "cp": 84,
+    "weight": [4.18, "XL"],
+    "height": [0.33]
+  },
+  {
+    "type": "caterpie",
+    "cp": 93,
+    "weight": [2.85],
+    "height": [0.3]
+  },
+  {
+    "type": "charmander",
+    "cp": 52,
+    "weight": [14.31, "XL"],
+    "height": [0.76, "XL"]
+  },
+  {
+    "type": "drowzee",
+    "cp": 217,
+    "weight": [30.74],
+    "height": [0.96]
+  },
+  {
+    "type": "drowzee",
+    "cp": 285,
+    "weight": [35.1],
+    "height": [0.96]
+  },
+  {
+    "type": "eevee",
+    "cp": 196,
+    "weight": [7.15],
+    "height": [0.31]
+  },
+  {
+    "type": "eevee",
+    "cp": 225,
+    "weight": [9.64, "XL"],
+    "height": [0.35]
+  },
+  {
+    "type": "ekans",
+    "cp": 32,
+    "weight": [8.06],
+    "height": [2.1]
+  },
+  {
+    "type": "fearow",
+    "cp": 437,
+    "weight": [38],
+    "height": [1.18]
+  },
+  {
+    "type": "gastly",
+    "cp": 170,
+    "weight": [0.13, "XL"],
+    "height": [1.38]
+  },
+  {
+    "type": "gastly",
+    "cp": 172,
+    "weight": [0.15, "XL"],
+    "height": [1.51]
+  },
+  {
+    "type": "golbat",
+    "cp": 467,
+    "weight": [5.77, "XS"],
+    "height": [1.78]
+  },
+  {
+    "type": "goldeen",
+    "cp": 203,
+    "weight": [9.99, "XS"],
+    "height": [0.56]
+  },
+  {
+    "type": "horsea",
+    "cp": 30,
+    "weight": [11.14, "XL"],
+    "height": [0.45]
+  },
+  {
+    "type": "horsea",
+    "cp": 127,
+    "weight": [9.64],
+    "height": [0.42]
+  },
+  {
+    "type": "kakuna",
+    "cp": 71,
+    "weight": [1.52, "XS"],
+    "height": [0.48]
+  },
+  {
+    "type": "kakuna",
+    "cp": 117,
+    "weight": [4.07, "XS"],
+    "height": [0.6]
+  },
+  {
+    "type": "krabby",
+    "cp": 101,
+    "weight": [4.72, "XS"],
+    "height": [0.38]
+  },
+  {
+    "type": "krabby",
+    "cp": 104,
+    "weight": [4.88],
+    "height": [0.37]
+  },
+  {
+    "type": "krabby",
+    "cp": 194,
+    "weight": [8.45, "XL"],
+    "height": [0.44]
+  },
+  {
+    "type": "magikarp",
+    "cp": 35,
+    "weight": [11.58],
+    "height": [0.94]
+  },
+  {
+    "type": "mankey",
+    "cp": 56,
+    "weight": [31.02],
+    "height": [0.55]
+  },
+  {
+    "type": "meowth",
+    "cp": 20,
+    "weight": [4.38],
+    "height": [0.41]
+  },
+  {
+    "type": "meowth",
+    "cp": 28,
+    "weight": [3.96],
+    "height": [0.44]
+  },
+  {
+    "type": "metapod",
+    "cp": 36,
+    "weight": [12.97, "XL"],
+    "height": [0.77]
+  },
+  {
+    "type": "nidoranf",
+    "cp": 113,
+    "weight": [10.45, "XL"],
+    "height": [0.46]
+  },
+  {
+    "type": "paras",
+    "cp": 115,
+    "weight": [6.34],
+    "height": [0.31]
+  },
+  {
+    "type": "paras",
+    "cp": 206,
+    "weight": [5.14],
+    "height": [0.28]
+  },
+  {
+    "type": "pidgeot",
+    "cp": 245,
+    "weight": [39.5],
+    "height": [1.36]
+  },
+  {
+    "type": "pidgeotto",
+    "cp": 186,
+    "weight": [5.62, "XS"],
+    "height": [1.11]
+  },
+  {
+    "type": "pidgey",
+    "cp": 143,
+    "weight": [1.71],
+    "height": [0.29]
+  },
+  {
+    "type": "poliwag",
+    "cp": 73,
+    "weight": [12.64],
+    "height": [0.61]
+  },
+  {
+    "type": "poliwag",
+    "cp": 128,
+    "weight": [13.39],
+    "height": [0.65]
+  },
+  {
+    "type": "psyduck",
+    "cp": 54,
+    "weight": [23.68],
+    "height": [0.85]
+  },
+  {
+    "type": "raticate",
+    "cp": 411,
+    "weight": [4.28, "XS"],
+    "height": [0.75]
+  },
+  {
+    "type": "rattata",
+    "cp": 118,
+    "weight": [3.44],
+    "height": [0.26]
+  },
+  {
+    "type": "seel",
+    "cp": 141,
+    "weight": [94.85],
+    "height": [1.14]
+  },
+  {
+    "type": "seel",
+    "cp": 204,
+    "weight": [84.94],
+    "height": [1.08]
+  },
+  {
+    "type": "shellder",
+    "cp": 156,
+    "weight": [2.97, "XS"],
+    "height": [0.29]
+  },
+  {
+    "type": "shellder",
+    "cp": 208,
+    "weight": [4.44],
+    "height": [0.31]
+  },
+  {
+    "type": "spearow",
+    "cp": 101,
+    "weight": [1.47, "XS"],
+    "height": [0.27]
+  },
+  {
+    "type": "staryu",
+    "cp": 120,
+    "weight": [33.81],
+    "height": [0.87]
+  },
+  {
+    "type": "tentacool",
+    "cp": 92,
+    "weight": [42.27],
+    "height": [0.74]
+  },
+  {
+    "type": "tentacool",
+    "cp": 109,
+    "weight": [40.92],
+    "height": [0.81]
+  },
+  {
+    "type": "venonat",
+    "cp": 159,
+    "weight": [21.17, "XS"],
+    "height": [0.95]
+  },
+  {
+    "type": "voltorb",
+    "cp": 55,
+    "weight": [4.01, "XS"],
+    "height": [0.37, "XS"]
+  },
+  {
+    "type": "weedle",
+    "cp": 49,
+    "weight": [3.19],
+    "height": [0.33]
+  },
+  {
+    "type": "weezing",
+    "cp": 30,
+    "weight": [9.39],
+    "height": [1.09]
+  },
+  {
+    "type": "zubat",
+    "cp": 140,
+    "weight": [3.92, "XS"],
+    "height": [0.68]
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "name": "pokego-lister",
+  "authors": [
+    "Szabolcs Suranyi <suranyiszabolcs@shadesoft.hu>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "keywords": [
+    "pokemon"
+  ],
+  "license": "MIT",
+  "homepage": "http://subbysnake.github.io/Pokemon-Go-Lister",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "polymer": "^1.6.0",
+    "bootstrap": "^3.3.7",
+    "paper-card": "PolymerElements/paper-card#^1.1.1"
+  }
+}

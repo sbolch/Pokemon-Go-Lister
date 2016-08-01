@@ -2,7 +2,7 @@
 
 > A small Pokémon listing application for Pokémon Go.
 
-[Open example here](https://subbysnake.github.io/Pokemon-Go-Lister){target="_blank"}
+[Open example here](https://subbysnake.github.io/Pokemon-Go-Lister "" target="_blank")
 
 * You need to have bower installed on your server and run
     `bower install`

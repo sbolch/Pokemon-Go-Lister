@@ -2,11 +2,11 @@
 
 > A small Pokémon listing application for Pokémon Go.
 
-[Open example here](https://subbysnake.github.io/Pokemon-Go-Lister)
+[Open example here](https://subbysnake.github.io/Pokemon-Go-Lister){target="_blank"}
 
 * You need to have bower installed on your server and run
     `bower install`
-    in the root directory, or alternatively get the required files (bower_components directory) from the gh-pages branch.
+    in the root directory, or alternatively get the required files (bower_components directory) from the [gh-pages](https://github.com/subbysnake/Pokemon-Go-Lister/tree/gh-pages) branch.
 * Data is collected from assets/data/data.json file by default
 * You can change data source in assets/js/main.js
 
